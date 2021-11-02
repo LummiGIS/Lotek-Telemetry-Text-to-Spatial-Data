@@ -8,7 +8,7 @@ This script reads each line of the telemetry file.  Once it finds the first line
 USER DEFINED INPUTS:
 1. The path to the telemetry text file (as a string).
 2. The first line of the telemetry text file to collect data (as a string).
-3. The power retun threshhold.  All power readings below this value will be discarded.
+3. The power return threshhold.  All power readings below this value will be discarded.
 OUTPUT:
 1. A CSV file in the same directory as the text file but with a csv suffex.
 SCRIPT REQUIREMENTS:
